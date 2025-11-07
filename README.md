@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=500&color=CC1F9D&width=600&height=70&lines=Welcome+to+my+code+world+%F0%9F%8C%8D;Hello%2C+Krishna+Singh+here+%F0%9F%98%81;Dream+%E2%80%A2+Code+%E2%80%A2+Deliver++%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%E2%9D%A4%EF%B8%8F" alt="Typing SVG" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=500&color=CC1F9D&width=600&height=70&lines=Welcome+to+my+code+world+%F0%9F%8C%8D;Hello%2C+Tanishka+Verma+here+%F0%9F%98%81;Dream+%E2%80%A2+Code+%E2%80%A2+Deliver++%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%E2%9D%A4%EF%B8%8F" alt="Typing SVG" alt="Typing SVG"/>
 
 
 
@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=singhkrishna01&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
-<p align="center">I’m Krishna Singh 🙋‍♂️, a B.Tech graduate in Computer Science 💻 with a passion for front-end development and the ambition to grow into a versatile full stack developer 👨‍💻. I am eager to secure a SDE role in a reputed company 🏢, where I can contribute my skills and work on building impactful digital solutions. Let’s code, create, and innovate together! 🚀</p>
+<p align="center">I’m Tanishka Verma 👩🏻‍💻, a B.Tech graduate in Information Technology 💻 with a passion for front-end development and the ambition to grow into a versatile full stack developer 👨‍💻. I am eager to secure a SDE role in a reputed company 🏢, where I can contribute my skills and work on building impactful digital solutions. Let’s code, create, and innovate together! 🚀</p>
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -135,12 +135,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-singh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishkaverma02)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cr7_krishna_singh)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/krishnasingh_99)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/2101640100144_cs)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Krishna2011/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishna00cs@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Tanishka_02)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishkaverma43@gmail.com)
 
 </div>
 

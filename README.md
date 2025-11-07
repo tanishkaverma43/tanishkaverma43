@@ -136,7 +136,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishkaverma02)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cr7_krishna_singh)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Tanishka_02)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishkaverma43@gmail.com)
 
@@ -154,15 +153,10 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=singhkrishna01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866&count_private=true&include_all_commits=true%22%20alt=%22Krishna%27s%20GitHub%20Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=singhkrishna01&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F8D866&currStreakNum=F75C7E&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="Krishna's GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=singhkrishna01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866&count_private=true&include_all_commits=true%22%20alt=%22Tanishka%27s%20GitHub%20Stats"/>
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhkrishna01&custom_title=Krishna's%20Contribution%20Graph&hide_border=true&bg_color=0D1117&color=F75C7E&line=F8D866&point=FFFFFF&area_color=F75C7E&area=true" alt="Contribution Graph"/>
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 

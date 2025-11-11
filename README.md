@@ -153,7 +153,7 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=singhkrishna01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866&count_private=true&include_all_commits=true%22%20alt=%22Tanishka%27s%20GitHub%20Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanishkaverma43&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866&count_private=true&include_all_commits=true%22%20alt=%22Tanishka%27s%20GitHub%20Stats"/>
 </div>
 
 <br/>
